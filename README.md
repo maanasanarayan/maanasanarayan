@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **CI/CD**
 - 💬 Ask me about **Javascript** and **Java**
-- 📫 How to reach me: **narayan.ma@northeastern.edu**
+- 📫 How to reach me: **narayan.ma@northeastern.edu** / **mnsnryn@gmail.com**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to draw Mandala patterns
 
