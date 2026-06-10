@@ -2,13 +2,14 @@
 
 ## About Me
 
-Software Engineer located in the Greater Boston Area, I work at Kayak, Cambridge, Massachusetts.
+Software Engineer located in the San Francisco Bay Area, I work at Google, Mountain View, CA.
 
 ## Education
 - **M.S. in Computer Science**, Khoury College of Computer Sciences, Northeastern University, 2023
 - **B.E. in Computer Science**, KSIT, affiliated to VTU, 2018
 
 ## Professional Experience
+- **Software Engineer** – Google, Mountain View, CA
 - **Software Engineer** – Kayak, Cambridge, MA
 - **Software Engineer Intern** – Amazon, Seattle, WA
 - **Software Engineer Intern** – Nokia, NJ
